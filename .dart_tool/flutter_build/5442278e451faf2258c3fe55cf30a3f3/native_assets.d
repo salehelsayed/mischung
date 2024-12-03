@@ -1,0 +1,1 @@
+ C:\\Users\\s\\Desktop\\ADHOC\\mischung\\.dart_tool\\flutter_build\\5442278e451faf2258c3fe55cf30a3f3\\native_assets.yaml: 
